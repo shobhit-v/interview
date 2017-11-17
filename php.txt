@@ -3,3 +3,7 @@
 -Difference between Type casting and Type hinting
 
 -Difference between Php5 and Php7
+
+WHat Is ApI
+
+What is the difference between rest and soap
