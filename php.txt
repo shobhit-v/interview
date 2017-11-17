@@ -1,0 +1,5 @@
+-Different type of Listner pages
+
+-Difference between Type casting and Type hinting
+
+-Difference between Php5 and Php7
