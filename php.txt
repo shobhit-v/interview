@@ -4,6 +4,8 @@
 
 -Difference between Php5 and Php7
 
-WHat Is ApI
+-WHat Is ApI
 
-What is the difference between rest and soap
+-What is the difference between rest and soap
+
+-Different type of MySql Engines and Which one is faster 
