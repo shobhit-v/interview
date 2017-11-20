@@ -1,4 +1,4 @@
--Different type of Listner pages
+-Different type of Listner pages?
 
 -Difference between Type casting and Type hinting
 
@@ -9,3 +9,9 @@
 -What is the difference between rest and soap
 
 -Different type of MySql Engines and Which one is faster 
+
+-Type Of Sorting, Complexity Of Sorting and Which One is Best?
+
+-If Array have lacks of Data then what you will do find Top 10 entries?
+
+-What is late static binding?

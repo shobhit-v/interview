@@ -1,0 +1,4 @@
+-What is Indexing?
+-What Is Left Outer Join?
+-Explain Query
+-What is partition in DB?
