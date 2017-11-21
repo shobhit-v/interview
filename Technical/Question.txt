@@ -1,4 +1,6 @@
--Clock Angle Problem?
+-Clock Angle Problem?-Manaully https://www.youtube.com/watch?v=pVxEShpCEJg
+
+--Clock Angle Problem?-Code 
 
 -Eight Balls Are there find the Odd One Out by using a taraju max 2 times?
 
