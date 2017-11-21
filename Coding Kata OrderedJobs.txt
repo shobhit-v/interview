@@ -23,9 +23,3 @@ Example:
 	register('b', 'a');
 	register('c', 'b');
 	getSortedJobNames() returns "abc"
-
-	
-
-
-
-

@@ -2,6 +2,16 @@
 
 -Eight Balls Are there find the Odd One Out by using a taraju max 2 times?
 
--Merge Two array uniquily
+-Merge Two array uniquily=============Solved @ https://codepen.io/shobhitverma/pen/VrQpvw
+
+-Move All non zero to End=============Solved @ https://codepen.io/shobhitverma/pen/wPdoNy
 
 -Sorting Of Array
+
+-ORDERED-JOBS-Kata
+
+-Fizzbuzz-Kata:=======================Solved can check in Demo Repo
+
+-PrimeFactor-Kata=====================Solved can check in Demo Repo
+
+-Numeral to roman and viceversa
