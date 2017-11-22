@@ -6,6 +6,8 @@ https://stackoverflow.com/questions/2955459/what-is-an-index-in-sql
  
 -What Is Join?
 
+-Write a query to find Who is having Birthday today 
+
 -What is partition in DB?:===============================Check Partioning Doc
 
 -Different type of MySql Engines and Which one is faster?

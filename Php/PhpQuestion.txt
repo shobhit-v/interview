@@ -15,9 +15,3 @@
 -What is Coocki
 
 -What is Session (Difference between Simple Session and Persistant Sessions)
-
--Write a query to find Who is having Birthday today 
-
--If I pass 1 to method it should return 2 and If i pass 2 it should retun 1 but method should not use any condition 
-
--Write a method which should accept a array and a number then it should return 2 array element those sum is nearest to the passed element
