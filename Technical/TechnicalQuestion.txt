@@ -17,3 +17,7 @@
 -PrimeFactor-Kata=====================Solved can check in Demo Repo
 
 -Numeral to roman and viceversa
+
+-Type Of Sorting, Complexity Of Sorting and Which One is Best?
+
+-If Array have lacks of Data then what you will do find Top 10 entries?

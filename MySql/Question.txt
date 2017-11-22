@@ -1,8 +1,0 @@
--What is Indexing?: 
-https://www.youtube.com/watch?v=EZ3jBam2IEA
-https://stackoverflow.com/questions/2955459/what-is-an-index-in-sql
-
--What Is Left Outer Join?
-
--Explain Query
--What is partition in DB?

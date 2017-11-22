@@ -1,0 +1,30 @@
+The idea behind partitioning isn't to use multiple servers but to use multiple tables instead of one table. You can divide a table into many tables so that you can have old 
+data in one sub table and new data in another table. Then the database can optimize queries where you ask for new data knowing that they are in the second table. What's more, you define how the data is partitioned.
+
+Simple example from the MySQL Documentation:
+
+CREATE TABLE employees (
+    id INT NOT NULL,
+    fname VARCHAR(30),
+    lname VARCHAR(30),
+    hired DATE NOT NULL DEFAULT '1970-01-01',
+    separated DATE NOT NULL DEFAULT '9999-12-31',
+    job_code INT,
+    store_id INT
+)
+PARTITION BY RANGE ( YEAR(separated) ) (
+    PARTITION p0 VALUES LESS THAN (1991),
+    PARTITION p1 VALUES LESS THAN (1996),
+    PARTITION p2 VALUES LESS THAN (2001),
+    PARTITION p3 VALUES LESS THAN MAXVALUE
+);
+This allows to speed up e.g.:
+
+Dropping old data by simple:
+ALTER TABLE employees DROP PARTITION p0;
+Database can speed up a query like this:
+SELECT COUNT(*)
+FROM employees
+WHERE separated BETWEEN '2000-01-01' AND '2000-12-31'
+GROUP BY store_id;
+Knowing that all data is stored only on the p2 partition.
