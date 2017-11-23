@@ -1,0 +1,21 @@
+Write SQL to find First highest salary? 
+
+SELECT name, MAX(salary) as salary FROM employee 
+===================================================
+Write SQL to find second highest salary?
+
+SELECT name, MAX(salary) AS salary  FROM employee WHERE salary < (SELECT MAX(salary) FROM employee); 
+Or 
+SELECT name, MAX(salary) AS salary FROM employee WHERE salary IN (SELECT salary FROM employee MINUS SELECT MAX(salary) FROM employee); 
+===================================================
+Write SQL to find the third largest salary? 
+
+SELECT name, MAX(salary) AS salary  FROM employee WHERE salary < (SELECT MAX(salary) FROM employee WHERE salary < (SELECT MAX(salary) FROM employee)); 
+===================================================
+Write a query to find Who is having Birthday today
+
+SELECT * FROM [Order] WHERE DAY(OrderDate) = DAY(GETDATE()) AND MONTH(OrderDate) = MONTH(GETDATE())
+Check here: http://www.dofactory.com/sql/sandbox 
+GETDATE in SQl Server
+SYSDATE in My SQL
+===================================================

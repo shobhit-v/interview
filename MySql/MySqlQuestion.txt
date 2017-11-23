@@ -1,37 +1,23 @@
--What is Indexing?: 
-https://www.youtube.com/watch?v=EZ3jBam2IEA
-https://stackoverflow.com/questions/2955459/what-is-an-index-in-sql
+-What is Indexing?:======================================Check indexing Doc
 
 -Explain Query:==========================================Check Explain Doc
  
--What Is Join?
-
--Write a query to find Who is having Birthday today 
-
 -What is partition in DB?:===============================Check Partioning Doc
+
+-SQL Query Questions:====================================Check Queries Doc
+
+-What Is Join?
 
 -Different type of MySql Engines and Which one is faster?
 
--GroupBy
+-What is GroupBy
 
--OrderBy
+-What is OrderBy
 
--having
+-What is having
 
--distinct
+-What is distinct
 
--Limit
+-What is Limit
 
--In
-
--SQL query to find 
---First highest salary? SELECT name, MAX(salary) as salary FROM employee 
---second highest salary?
-SELECT name, MAX(salary) AS salary  FROM employee WHERE salary < (SELECT MAX(salary) FROM employee); 
-
-Or 
-
-SELECT name, MAX(salary) AS salary FROM employee WHERE salary IN (SELECT salary FROM employee MINUS SELECT MAX(salary) FROM employee); 
-
-How to find the third largest salary? 
-SELECT name, MAX(salary) AS salary  FROM employee WHERE salary < (SELECT MAX(salary) FROM employee WHERE salary < (SELECT MAX(salary) FROM employee)); 
+-What is In
