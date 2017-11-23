@@ -1,17 +1,36 @@
--Different type of Listner pages?
+-Different type of Listener pages?
+Solution
 
--Difference between Type casting and Type hinting
+===========================================
+-Difference between Type casting and Type Hinting
+Solution
 
+===========================================
 -Difference between Php5 and Php7
+Solution
 
--WHat Is ApI
+===========================================
+-What Is API
+Solution
 
+===========================================
 -What is the difference between rest and soap
+Solution
 
--Different type of MySql Engines and Which one is faster 
+===========================================
+-Different type of MySql Engines and Which one is faster
+Solution
 
+=========================================== 
 -What is late static binding?
+Solution
 
+===========================================
 -What is Coocki
+Solution
 
--What is Session (Difference between Simple Session and Persistant Sessions)
+===========================================
+-What is Session (Difference between Simple Session and Persistent Sessions)
+Solution
+
+===========================================

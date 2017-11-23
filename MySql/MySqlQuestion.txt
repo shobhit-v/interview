@@ -1,23 +1,52 @@
--What is Indexing?:======================================Check indexing Doc
+-What is Indexing?
+Solution
+Check indexing Doc
 
--Explain Query:==========================================Check Explain Doc
- 
--What is partition in DB?:===============================Check Partioning Doc
+===========================================
+-Explain Query
+Solution
+Check Explain Doc
 
--SQL Query Questions:====================================Check Queries Doc
+=========================================== 
+-What is partition in DB?
+Solution
+Check Partioning Doc
 
+===========================================
+-SQL Query Questions
+Solution
+Check Queries Doc
+
+===========================================
 -Type of MySql Engines and Which one is faster?
+Solution
 
+===========================================
 -What Is Join?
+Solution
 
+===========================================
 -What is GroupBy?
+Solution
 
+===========================================
 -What is OrderBy?
+Solution
 
+===========================================
 -What is having?
+Solution
 
+===========================================
 -What is distinct?
+Solution
 
+===========================================
 -What is Limit?
+Solution
 
+===========================================
 -What is In?
+Solution
+
+===========================================

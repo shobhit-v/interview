@@ -1,31 +1,83 @@
--Clock Angle Problem?-Manaully https://www.youtube.com/watch?v=pVxEShpCEJg
+-Eight Balls Are there find the Odd One Out by using a WEIGHING SCALE max 2 times?
+Solution
+You have to weigh 3v3 first.
+Consider the case where one is heavier than other. So if you weigh 3v3, there will be 2 cases where the heavy ball could be:
+1: The 2 balls which are not weighed: In that case weigh those two balls and find out which one is heavy.
+2: In one of the 3 balls. The 3 balls which are heavy, weigh two of them. If two are of same weight then third one is heavy. Otherwise the balance will show which one is heavy.
 
---Clock Angle Problem?-Code 
+===========================================
+-Merge Two array uniquily
+Solution
+https://codepen.io/shobhitverma/pen/VrQpvw
 
--Eight Balls Are there find the Odd One Out by using a taraju max 2 times?
+===========================================
+-4 4 4 4 = 20
+Solution:
+4/4 4 4 = 20
+1 4 4 = 20
+1+4 4 = 20
+5 4 = 20
+5*4=20
+20=20
+:)
+===========================================
+-Move All non zero to End
+Solution
+https://codepen.io/shobhitverma/pen/wPdoNy
 
--Merge Two array uniquily=============Solved @ https://codepen.io/shobhitverma/pen/VrQpvw
+===========================================
+-If 2 candles are there and Both the candles can be lit from either side and each candle takes 1hour to get burnt completely the calculate 15 mins
+Solution: 
+Burn 1st candle from either side and also burn the 2nd candle just from one side, Then once the 1st candle is completely burnt then light the 2nd Candle from another side.
 
--Move All non zero to End=============Solved @ https://codepen.io/shobhitverma/pen/wPdoNy
-
--Sorting Of Array
-
--ORDERED-JOBS-Kata
-
--Fizzbuzz-Kata:=======================Solved can check in Demo Repo
-
--PrimeFactor-Kata=====================Solved can check in Demo Repo
-
--Numeral to roman and viceversa
-
--Type Of Sorting, Complexity Of Sorting and Which One is Best?
-
--If Array have lacks of Data then what you will do find Top 10 entries?
-
--Write a method which should accept a array and a number then it should return 2 array element those sum is nearest to the passed element
-
--If I pass 1 to a method it should return 2 and If I pass 2 it should retun 1 but method should not use any condition:
+===========================================
+-If I pass 1 to a method it should return 2 and If I pass 2 it should return 1 but method should not use any condition:
 Solution
 method(int x){
-	return (2/x);
-} :) :)
+    return (2/x);
+} 
+:) :)
+===========================================
+-Fizzbuzz-Kata:
+Solution
+check in Demo Repo
+
+===========================================
+-PrimeFactor-Kata 
+Solution
+Check in Demo Repo
+
+===========================================
+-Clock Angle Problem?-Manually 
+Solution
+https://www.youtube.com/watch?v=pVxEShpCEJg
+
+===========================================
+-Clock Angle Problem?-Code 
+Solution 
+
+===========================================
+-Sorting Of Array 
+Solution
+
+===========================================
+-ORDERED-JOBS-Kata 
+Solution
+
+===========================================
+-Numeral to roman and vice-versa 
+Solution
+
+===========================================
+-Type Of Sorting, Complexity Of Sorting and Which One is Best? 
+Solution
+
+===========================================
+-If Array has many Data then what you will do find Top 10 entries? 
+Solution
+
+===========================================
+-Write a method which should accept an array and a number then it should return 2 array element that sum is nearest to the passed element 
+Solution
+
+===========================================
