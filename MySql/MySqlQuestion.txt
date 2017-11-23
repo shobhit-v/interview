@@ -6,18 +6,18 @@
 
 -SQL Query Questions:====================================Check Queries Doc
 
+-Type of MySql Engines and Which one is faster?
+
 -What Is Join?
 
--Different type of MySql Engines and Which one is faster?
+-What is GroupBy?
 
--What is GroupBy
+-What is OrderBy?
 
--What is OrderBy
+-What is having?
 
--What is having
+-What is distinct?
 
--What is distinct
+-What is Limit?
 
--What is Limit
-
--What is In
+-What is In?
