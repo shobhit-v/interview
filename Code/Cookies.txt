@@ -1,0 +1,20 @@
+-A cookie is often used to identify a user.
+
+-A cookie is a small file that the server embeds on the user's computer. 
+
+-Each time the same computer requests a page with a browser, it will send the cookie too.
+
+-With PHP, you can both create and retrieve cookie values.
+
+-Create Cookies With PHP
+setcookie(name, value, expire, path, domain, secure, httponly);
+
+-Only the name parameter is required. All other parameters are optional.
+
+-We then retrieve the value of the cookie  using the global variable $_COOKIE.
+
+-We also use the isset() function to find out if the cookie is set
+
+Note: The setcookie() function must appear BEFORE the <html> tag.
+
+Note: The value of the cookie is automatically URLencoded when sending the cookie, and automatically decoded when received (to prevent URLencoding, use setrawcookie() instead).
