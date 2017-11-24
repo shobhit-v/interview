@@ -3,7 +3,7 @@ Solution
 You have to weigh 3v3 first.
 Consider the case where one is heavier than other. So if you weigh 3v3, there will be 2 cases where the heavy ball could be:
 1: The 2 balls which are not weighed: In that case weigh those two balls and find out which one is heavy.
-2: In one of the 3 balls. The 3 balls which are heavy, weigh two of them. If two are of same weight then third one is heavy. Otherwise the balance will show which one is heavy.
+2: In one of the 3 balls. The 3 balls which are heavy, weigh two of them. If two are of same weight then the third one is heavy. Otherwise, the balance will show which one is heavy.
 
 ===========================================
 -Merge Two array uniquily

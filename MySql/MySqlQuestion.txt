@@ -10,7 +10,7 @@ Check Explain Doc
 =========================================== 
 -What is partition in DB?
 Solution
-Check Partioning Doc
+Check Partitioning Doc
 
 ===========================================
 -SQL Query Questions
