@@ -1,0 +1,32 @@
+-Different type of Listener pages?
+Solution
+
+===========================================
+-Difference between Type casting and Type Hinting
+Solution
+
+===========================================
+-Difference between Php5 and Php7
+Solution
+
+===========================================
+-What Is API
+Solution
+
+===========================================
+-What is the difference between rest and soap
+Solution
+
+===========================================
+-What is late static binding?
+Solution
+
+===========================================
+-What is Cookies
+Solution
+
+===========================================
+-What is Session (Difference between Simple Session and Persistent Sessions)
+Solution
+
+===========================================

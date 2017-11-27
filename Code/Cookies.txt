@@ -1,8 +1,8 @@
--A cookie is often used to identify a user.
+-A cookie is often used to identify a user by storing user information in web pages.
 
 -A cookie is a small file that the server embeds on the user's computer. 
 
--Each time the same computer requests a page with a browser, it will send the cookie too.
+-When a browser requests a web page from a server, cookies belonging to the page is added to the request. This way the server gets the necessary data to "remember" information about users.
 
 -With PHP, you can both create and retrieve cookie values.
 
@@ -14,6 +14,13 @@ setcookie(name, value, expire, path, domain, secure, httponly);
 -We then retrieve the value of the cookie  using the global variable $_COOKIE.
 
 -We also use the isset() function to find out if the cookie is set
+
+-When a web server has sent a web page to a browser, the connection is shut down, and the server forgets everything about the user.
+Cookies were invented to solve the problem "how to remember information about the user":
+	-When a user visits a web page, his name can be stored in a cookie.
+	-Next time the user visits the page, the cookie "remembers" his name.
+
+-Cookies are saved in name-value pairs like:
 
 Note: The setcookie() function must appear BEFORE the <html> tag.
 

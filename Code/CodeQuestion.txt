@@ -1,37 +1,44 @@
--Different type of Listener pages?
+-Merge Two array uniquily
+Solution
+https://codepen.io/shobhitverma/pen/VrQpvw
+
+===========================================
+-Move All non zero to End
+Solution
+https://codepen.io/shobhitverma/pen/wPdoNy
+
+===========================================
+-PrimeFactor-Kata 
+Solution
+Check in Demo Repo
+
+===========================================
+-Clock Angle Problem?-Code 
+Solution 
+
+===========================================
+-Sorting Of Array 
 Solution
 
 ===========================================
--Difference between Type casting and Type Hinting
+-ORDERED-JOBS-Kata 
 Solution
 
 ===========================================
--Difference between Php5 and Php7
+-Fizzbuzz-Kata:
 Solution
+check in Demo Repo
 
 ===========================================
--What Is API
-Solution
-
-===========================================
--What is the difference between rest and soap
-Solution
-
-===========================================
--Different type of MySql Engines and Which one is faster
+-Numeral to roman and vice-versa 
 Solution
 
 =========================================== 
--What is late static binding?
+-Write a method which should accept an array and a number then it should return 2 array element that sum is nearest to the passed element 
 Solution
 
 ===========================================
--What is Cookies
+-Write A git query to find how many line of code is done by a author between givn date range.
 Solution
 
-===========================================
--What is Session (Difference between Simple Session and Persistent Sessions)
-Solution
-
-===========================================
 git log --author="shobhit.verma" --since "Oct 1 2017" --until "Oct 30 2017" --pretty=tformat: --numstat | gawk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "Added lines: %s Removed lines: %s Total lines: %s\n", add, subs, loc }' -
