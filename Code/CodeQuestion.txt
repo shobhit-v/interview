@@ -44,3 +44,7 @@ Solution
 git log --author="shobhit.verma" --since "Oct 1 2017" --until "Oct 30 2017" --pretty=tformat: --numstat | gawk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "Added lines: %s Removed lines: %s Total lines: %s\n", add, subs, loc }' -
 ===========================================
 Write A js code which should target a div tag with id=name, then  change its id to age
+===========================================
+Write command to flush all data from redis, can we save a object in redis as a value
+===========================================
+
