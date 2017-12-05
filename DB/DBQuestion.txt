@@ -50,3 +50,4 @@ Solution
 Solution
 
 ===========================================
+-If there are two table with same structure id,name,age, write a sql query to print a name from both table 
