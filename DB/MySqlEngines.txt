@@ -29,6 +29,7 @@ It is crucial to understand each storage engine features and choose the most app
 
 -From version 5.5, MySQL uses InnoDB as the default storage 
 
+-MyIsam store each table in separte file which can be compresed further if required.
 
 =====InnoDB=====
 -The InnoDB tables fully support ACID-compliant and transactions
@@ -45,7 +46,7 @@ It is crucial to understand each storage engine features and choose the most app
 
 -Like MyISAM, At startup, MySQL checks also checks and repairs InnoDB tables.
 
-
+-InnoDB store table in table space which hard to optemize in later phase 
 =====MERGE=====
 -A MERGE table is a virtual table that combines multiple MyISAM tables that have a similar structure into one table.
 

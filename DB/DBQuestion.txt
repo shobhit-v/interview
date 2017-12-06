@@ -51,3 +51,24 @@ Solution
 
 ===========================================
 -If there are two table with same structure id,name,age, write a sql query to print a name from both table 
+Solution
+
+SELECT name FROM table1
+UNION
+SELECT name FROM table2;
+===========================================
+How to concatinate a strings in mysql
+Solution
+
+Using concat(String1, Str2, Str3)
+==========================================
+String Types available for a column
+Solution
+
+SET 
+BLOB
+ENUM
+CHAR
+VARCHAR
+TEXT
+==========================================
