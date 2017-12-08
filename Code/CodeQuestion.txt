@@ -1,42 +1,48 @@
 -Merge Two array uniquily
-Solution
-https://codepen.io/shobhitverma/pen/VrQpvw
+Solution:
 
+https://codepen.io/shobhitverma/pen/VrQpvw
 ===========================================
 -Move All non zero to End
-Solution
-https://codepen.io/shobhitverma/pen/wPdoNy
+Solution:
 
+https://codepen.io/shobhitverma/pen/wPdoNy
 ===========================================
 -PrimeFactor-Kata 
-Solution
-Check in Demo Repo
+Solution:
 
+Check in Demo Repo
 ===========================================
 -Clock Angle Problem?-Code 
-Solution 
+Solution:
 
 ===========================================
 -Sorting Of Array 
 Solution
 
+Quick Sort: https://codepen.io/shobhitverma/pen/POrZxo?editors=0001
+
+Bubble Sort:
+
+Selection sort:
 ===========================================
 -ORDERED-JOBS-Kata 
-Solution
+Solution:
 
 ===========================================
 -Fizzbuzz-Kata:
-Solution
-check in Demo Repo
+Solution:
 
+check in Demo Repo
 ===========================================
 -Numeral to roman and vice-versa 
 Solution
 
 =========================================== 
--Write a method which should accept an array and a number then it should return 2 array element that sum is nearest to the passed element 
-Solution
+-Given an array A[] and a number x, check for pair in A[] with sum as x
+Solution:
 
+https://codepen.io/shobhitverma/pen/qVzEZp?editors=1111
 ===========================================
 -Write A git query to find how many line of code is done by a author between givn date range.
 Solution:
@@ -53,7 +59,17 @@ $(document).ready(function(){
 **Jquery**
 document.getElementById('name').setAttribute('id', 'age');
 ===========================================
-Write command to flush all data from redis, can we save a object in redis as a value
+Write command to flush all data from redis
+Solution:
+
+FlushAll
+===========================================
+can we save a object in redis as a value
+Solution:
+
+Using Hash data structure
+===========================================
+Crate A document on redis on each data type bases
 Solution:
 
 ===========================================
